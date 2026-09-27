@@ -1,5 +1,7 @@
 \# 🌀 Cyclone AI Intelligence System
 
+\[!\[Streamlit App](https://static.streamlit.io/badges/streamlit\_badge\_black\_white.svg)](https://cyclone-ai-intelligence-system-g9cwpywwhopvr7g3zyx2t3.streamlit.app/)
+
 
 
 \### Smart India Hackathon 2026 — Problem Statement 26070
